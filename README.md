@@ -1,3 +1,5 @@
+![Tip Calculator](banner.png)
+
 # 💸 TipCalculator – Simple Python Bill Splitter with Tip
 
 **TipCalculator** is a beginner-friendly **Python project** that calculates how much each person should pay when splitting a bill, including a tip. Built as part of **Angela Yu’s 100 Days of Code: Python Bootcamp**, this script is perfect for learning input handling, arithmetic, and formatted output.
@@ -22,27 +24,27 @@ This project helps you practice:
 
 Make sure you have Python 3 installed. Then run:
 
-\`\`\`bash
+```python
 python tip_calculator.py
-\`\`\`
+```
 
 ### 🧾 Example Output
 
-\`\`\`
+```python
 Welcome to the tip calculator!
 What was the total bill? $150.00
 What percentage tip would you like to give? 12
 How many people to split the bill? 5
 Each person should pay: $33.60
-\`\`\`
+```
 
 ## 📂 Project Files
 
-\`\`\`
+```python
 TipCalculator/
 ├── tip_calculator.py
 └── README.md
-\`\`\`
+```
 
 ## 📈 SEO Keywords
 
